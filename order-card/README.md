@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-using-html-css-flexbox-wr4G2I5oA)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-using-html-css-flexbox-G_V8bu5Xg)
 - Live Site URL: [Add live site URL here](https://painghtetaung.github.io/frontend-mentor/order-card/)
 
 ### Built with
