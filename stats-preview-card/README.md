@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-using-html-css-flexbox-G_V8bu5Xg)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-using-htmlcss-and-flexbox-mAVEcpPgc)
 - Live Site URL: [Add live site URL here](https://painghtetaung.github.io/frontend-mentor/stats-preview-card/)
 
 ### Built with
